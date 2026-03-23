@@ -34,6 +34,7 @@ public class App {
         System.out.println("Coche usado entregado: " + cocheUsado.getNombre() + " con matrícula " + cocheUsado.getMatricula() + " tasado en €" + cocheUsado.getPrecioTasacion());
         System.out.println("Fecha de compra: " + compra.getFecha());
         System.out.println("AAAADAAd ");
+        System.out.println("ruina ");
        
     }
 }
