@@ -3,7 +3,7 @@ public class Pais {
     double poblacion;
     double PIB;
 
-
+    // Comentario Rafa
     public Pais(double PIB, String nombre, double  poblacion) {
         this.PIB = PIB;
         this.nombre = nombre;
