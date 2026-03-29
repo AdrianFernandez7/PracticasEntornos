@@ -15,7 +15,7 @@ public class App {
         Modelo modelo = new Modelo(1, "m3",marca);
         Version version = new Version(1, "BMW 3", 500, 90000, "Gasolina", modelo);
 
-       
+       // Comentario Rafa 3
         Cliente cliente1 = new Cliente(1, "Adrián", "Contreras", "calle1", "38103981");
         Vendedor vendedor = new Vendedor(1, "Antonio", "Lozano", "calle2", "48933749");
 
