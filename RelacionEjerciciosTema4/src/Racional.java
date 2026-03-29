@@ -9,7 +9,7 @@ public class Racional {
     }
 
 
-
+    // Comentario Rafa 2
     
     public Racional suma(Racional otro) {
         int nuevoNum = numerador * otro.denominador + otro.numerador * denominador;
