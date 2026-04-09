@@ -3,6 +3,8 @@ public class Racional {
     int denominador;
     int cambio1=1;
     int cambio2=1;
+    int cambio3=1;
+    int cambio4=1;
 
    
     public Racional(int n, int d) {
