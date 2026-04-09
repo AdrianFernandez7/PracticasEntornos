@@ -1,7 +1,7 @@
 public class Racional {
     int numerador;
     int denominador;
-    int cambio5=1;
+    int cambio5=99;
 
 
    
